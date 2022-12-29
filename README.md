@@ -27,7 +27,7 @@ This [code in Java](https://github.com/autotesthow/selenide-demo) comes from the
 
 ### To reuse the code from this project
 
-Ensure you installed everything from the Prerequisites section and additinally install:
+Ensure you installed everything from the Prerequisites section and additionally install:
 
 * [Git](https://git-scm.com/)
 
