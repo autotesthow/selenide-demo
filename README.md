@@ -38,7 +38,7 @@ git clone git@github.com:autotesthow/selenide-demo.git selenide-demo \
 && cd $_ 
 ```
 
-Open the project in the Intellij Idea. Check the code in src/main/java/org/example/Main.java and run it by either pressing context click on the file and selecting «Run Main.main()»
+Open the project in the Intellij Idea. Check the code in src/main/java/org/example/Main.java and run it by pressing context click on the file and selecting «Run Main.main()»
 
 Enjoy the result!
 
